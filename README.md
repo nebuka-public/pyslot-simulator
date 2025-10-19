@@ -1,0 +1,2 @@
+# pyslot-simulator
+パチスロシミュレータ
